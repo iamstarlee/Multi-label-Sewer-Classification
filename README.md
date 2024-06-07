@@ -1,6 +1,6 @@
 # Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark
 
-This repository is the official implementation of [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Haurum_Sewer-ML_A_Multi-Label_Sewer_Defect_Classification_Dataset_and_Benchmark_CVPR_2021_paper.pdf), and [Supplementary](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Haurum_Sewer-ML_A_Multi-Label_CVPR_2021_supplemental.pdf)
+This repository is the official implementation of [Paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Haurum_Sewer-ML_A_Multi-Label_Sewer_Defect_Classification_Dataset_and_Benchmark_CVPR_2021_paper.pdf) and [Supplementary](https://openaccess.thecvf.com/content/CVPR2021/supplemental/Haurum_Sewer-ML_A_Multi-Label_CVPR_2021_supplemental.pdf).
 
 
 The Sewer-ML project page can be found [here](https://vap.aau.dk/sewer-ml/).
