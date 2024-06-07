@@ -42,11 +42,11 @@ When training the images are normalized with the following mean and standard dev
 
 Two examples of this would be training the binary classifier by Xie et al. and a e2e model using the TResNet-L architecture:
 
-```
+```python
 python lightning_trainer.py --precision 16 --batch_size 128 --max_epochs 90 --progress_bar_refresh_rate 500 --gpus 2 --distributed_backend ddp  --model xie2019_binary  --training_mode binary --log_save_interval 1000 --row_log_interval 100 --ann_root <path_to_annotations> --data_root <path_to_data> --log_save_dir <path_to_model_logs>
 ```
 
-```
+```python
 python lightning_trainer.py --precision 16 --batch_size 128 --max_epochs 90 --progress_bar_refresh_rate 500 --gpus 2 --distributed_backend ddp  --model tresnet_l  --training_mode e2e --log_save_interval 1000 --row_log_interval 100 --ann_root <path_to_annotations> --data_root <path_to_data> --log_save_dir <path_to_model_logs>
 ```
 
