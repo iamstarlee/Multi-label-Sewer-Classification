@@ -123,7 +123,7 @@ python combineTwoStage.py --outputName <output_filepath> --stage_one_path <stage
 
 You can download pretrained models here:
 
-- [Model Repository](https://sciencedata.dk/shared/sewerml_cvpr2021_models](https://sciencedata.dk/themes/deic_theme_oc7/apps/files_sharing/public.php?t=sewerml_cvpr2021_models&path=%2FSewerML_CVPR2021_Models%2FPytorch&dir=%2FSewerML_CVPR2021_Models%2FPytorch)) trained on Sewer-ML using the parameters described in the paper.
+- [Model Repository](https://sciencedata.dk/shared/sewerml_cvpr2021_models) trained on Sewer-ML using the parameters described in the paper.
 
 For the CNNs two model versions are provided: Weights which can be used in pure Pytorch and weights which are compatible with the Pytorch Lightning setup.
 
